@@ -1,6 +1,6 @@
 name: Automated API tests using Postman CLI
 
-on: workflow_call
+on: workflow_dispatch
 
 jobs:
   automated-api-tests:
